@@ -1,7 +1,6 @@
 ### Hi, I'm Bdiebeak!
-
 > There should be some info about me right here, but you can find something handy in the lists below. :wink:
-
+---
 <details>
   <summary>:zap: Usefull Links</summary>
   
