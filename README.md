@@ -3,8 +3,14 @@
 ---
 <details>
   <summary>:zap: Usefull Links</summary>
-  
+  <a href="https://bdiebeak.itch.io/">
+    <img alt="ItchIo Badge" src="https://img.shields.io/badge/Itch.io-E4405F?style=for-the-badge&logo=itch.io&logoColor=white"/>
+  </a>
+   <a href="https://www.linkedin.com/in/vladislav-kapystinsky-166942231/">
+    <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </details>
+
 <details>
   <summary>:zap: My GitHub Stats</summary>
   <img align="center" alt="Bdiebeak's GitHub Stats All" src="https://github-readme-stats.vercel.app/api?username=Bdiebeak&theme=dracula&show_icons=true&hide_border=true" />
