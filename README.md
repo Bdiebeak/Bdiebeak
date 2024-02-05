@@ -6,13 +6,30 @@
   <a href="https://www.linkedin.com/in/vladislav-kapystinsky-166942231/">
     <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://bdiebeak.itch.io/">
+    <img alt="ItchIo Badge" src="https://img.shields.io/badge/Itch.io-E4405F?style=for-the-badge&logo=itch.io&logoColor=white"/>
+  </a>
 </details>
 
 <details>
   <summary>:zap: Contributed</summary>  
-  <a href="https://bdiebeak.itch.io/">
-    <img alt="ItchIo Badge" src="https://img.shields.io/badge/Itch.io-E4405F?style=for-the-badge&logo=itch.io&logoColor=white"/>
-  </a>
+  <ul>
+    <li>
+      <a href="https://elysium.today/">
+        Elysium VR
+      </a>
+    </li>
+    <li>
+      <a href="https://wadality.com/">
+        Wadality
+      </a>
+    </li> 
+    <li>
+      <a href="https://dino-wars.com/">
+        DinoWars
+      </a>
+    </li>
+  </ul>
 </details>
 
 <details>
