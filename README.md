@@ -9,9 +9,6 @@
   <a href="https://www.linkedin.com/in/vladislav-kapystinsky-166942231/">
     <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.twitch.tv/bdiebeak">
-    <img alt="Twitch Badge" src="https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=twitch&logoColor=white"/>
-  </a>
 </details>
 
 <details>
